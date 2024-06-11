@@ -2,7 +2,6 @@
 """
 Created on Tue Jun 11 13:23:34 2024
 
-@author: lrs45856
 """
 
 # Importing necessary libraries
