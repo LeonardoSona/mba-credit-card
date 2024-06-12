@@ -3,6 +3,6 @@ pandas
 xlsxwriter
 openpyxl
 matplotlib
-seaborn
 scipy
-sklearn
+scikit-learn
+seaborn
